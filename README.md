@@ -1,8 +1,8 @@
 # projeto_imobiliaria
 
-Crie uma página para divulgação dos serviços de uma imobiliária.Apágina
-principal (index.html) deve conter obrigatóriamente, os seguintes itens.:
-– No topo da página na região de navegação, deve conter os seguintes links
+Crie uma página para divulgação dos serviços de uma imobiliária.
+A página principal (index.html) deve conter obrigatóriamente, os seguintes itens:
+- No topo da página na região de navegação, deve conter os seguintes links
 (os mesmos devem abrir as páginas conforme a descrição a partir do
 próximo slide):
 • Inicio
@@ -11,8 +11,8 @@ próximo slide):
 • Bairros
 – Abaixo do menu acrescente um banner (escolha uma foto qualquer) que
 represente a empresa.
-– Uma região na página contendo um texto sobre a empresa. Nesta região
-liste os serviços prestados pela imobiliária.
+– Uma região na página contendo um texto sobre a empresa. 
+Nesta região liste os serviços prestados pela imobiliária.
 – Uma região na página (rodapé) com os dados do aluno.
 
 As demais páginas devem conter a mesma estrutura do index:
