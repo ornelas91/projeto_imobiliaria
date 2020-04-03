@@ -25,4 +25,4 @@ As demais páginas devem conter a mesma estrutura do index:
 • Na página Bairros, crie uma tabela para cada uma das 5 regiõesde
 São Paulo (Leste, Oeste, Norte, Sul e Centro) e em cada uma
 escolha os 4 mais conhecidos bairros e os valores médios de
-aluguel e venda de imóveis nessesbairros.
+aluguel e venda de imóveis nesses bairros.
